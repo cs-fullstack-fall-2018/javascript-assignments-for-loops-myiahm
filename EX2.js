@@ -1,5 +1,5 @@
 
-for (x = 0; x < 100; x++) {
+for (x = 0; x < 100; x++) { //It's self documenting
     if ( x%3 ===0)
     {
         alert("fizz" + x)
