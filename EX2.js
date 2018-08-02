@@ -19,3 +19,10 @@ for (x = 0; x < 100; x++) { //It's self documenting
             alert(x)
         }
     }
+
+/*
+    KEY: Really close! But you need to check for 'fizzbuzz' first else
+    you'll get just a FIZZ on a number like 15 when should have been FIZZBUZZ.
+
+    Also, you didnt let user input the end number
+*/
