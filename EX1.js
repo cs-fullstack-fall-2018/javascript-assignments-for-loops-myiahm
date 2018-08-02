@@ -3,8 +3,7 @@ var biggestNumber = 9000;
 
 for (x=0; x<9000;x++)
 {
-    alert(biggestNumber);
     alert(myNumberList);
-
+    alert(biggestNumber);
 
 }
